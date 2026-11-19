@@ -1,0 +1,1 @@
+Vercel 部署：解壓縮後將 index.html、vercel.json、public 資料夾放入 GitHub repository 根目錄；Vercel 匯入該 repository，Framework Preset 選 Other，Build Command 留空，Output Directory 設為 .，再按 Deploy。此網站為純 HTML/CSS/JavaScript，無需安裝套件。
